@@ -5,8 +5,7 @@ Software Engineer | Full Stack Web Developer
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [ali.tarek.bayomy@gmail.com](mailto:ali.tarek.bayomy@gmail.com)
-* 🧠  I'm learning Algorithms
-* 🤝  I'm open to collaborating on open-source projects and meet new people from different cultures.
+
 
 ### Skills
 
